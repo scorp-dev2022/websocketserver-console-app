@@ -1,0 +1,1 @@
+In this console-based project, we established a persistent WebSocket connection to continuously listen on a specified port, convert the received data into a PNG image, and send it to the selected printer for output.
